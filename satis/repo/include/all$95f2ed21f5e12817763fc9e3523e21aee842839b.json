@@ -1,0 +1,80 @@
+{
+    "packages": {
+        "owenliang1990/first-composer-package": {
+            "1.0": {
+                "name": "owenliang1990/first-composer-package",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/owenliang/first-composer-package.git",
+                    "reference": "c8a455a287b56deee31b3df43dc6c1a543a6c29f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/owenliang/first-composer-package/zipball/c8a455a287b56deee31b3df43dc6c1a543a6c29f",
+                    "reference": "c8a455a287b56deee31b3df43dc6c1a543a6c29f",
+                    "shasum": ""
+                },
+                "time": "2018-05-04T08:50:35+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "Owenliang1990\\FirstPackage\\": "src"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "owenliang",
+                        "email": "120848369@qq.com"
+                    }
+                ],
+                "description": "for private composer package",
+                "support": {
+                    "source": "https://github.com/owenliang/first-composer-package/tree/1.0",
+                    "issues": "https://github.com/owenliang/first-composer-package/issues"
+                }
+            },
+            "dev-master": {
+                "name": "owenliang1990/first-composer-package",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/owenliang/first-composer-package.git",
+                    "reference": "c8a455a287b56deee31b3df43dc6c1a543a6c29f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/owenliang/first-composer-package/zipball/c8a455a287b56deee31b3df43dc6c1a543a6c29f",
+                    "reference": "c8a455a287b56deee31b3df43dc6c1a543a6c29f",
+                    "shasum": ""
+                },
+                "time": "2018-05-04T08:50:35+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "Owenliang1990\\FirstPackage\\": "src"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "owenliang",
+                        "email": "120848369@qq.com"
+                    }
+                ],
+                "description": "for private composer package",
+                "support": {
+                    "source": "https://github.com/owenliang/first-composer-package/tree/1.0",
+                    "issues": "https://github.com/owenliang/first-composer-package/issues"
+                }
+            }
+        }
+    }
+}

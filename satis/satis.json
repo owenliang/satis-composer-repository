@@ -1,0 +1,10 @@
+{
+  "name": "Private Repository",
+  "homepage": "http://localhost:8888",
+  "repositories": [
+    { "type": "vcs", "url": "https://github.com/owenliang/first-composer-package" }
+  ],
+  "require": {
+      "owenliang1990/first-composer-package": "*"
+  }
+}
